@@ -1,0 +1,16 @@
+{
+  "name": "creative-drawing-tool",
+  "version": "1.0.0",
+  "description": "this is the backend for creative drawing tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Rishabh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.2"
+  }
+}
